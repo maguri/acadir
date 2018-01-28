@@ -1,7 +1,7 @@
 language: go
 
 go:
-  - 1.7.1
+  - 1.9.3
 
 addons:
   apt:
@@ -24,7 +24,7 @@ install:
 
 before_script:
   - mkdir themes
-  - git clone --depth 1 git@github.com:maguri/acadir-theme.git themes/acadir-theme/
+  - git clone --depth 1 https://github.com/maguri/acadir-theme.git themes/acadir-theme/
 
 script:
   - hugo
