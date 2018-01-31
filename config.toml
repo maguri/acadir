@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 
 [params]
   description = 'Descripció ACADIR<br />'
-  logoimage = "images/logo.png"
+  logoimage = "images/logo.svg"
   copyright = "Oriol Mauri"
 
 [[params.social]]
