@@ -1,7 +1,7 @@
 language: go
 
 go:
-  - 1.9.3
+  - 1.9.4
 
 addons:
   apt:
@@ -16,11 +16,11 @@ env:
 before_install:
   - export GOPATH=$HOME/go
   - export PATH=$PATH:$GOPATH/bin
+  - sudo apt update
+  - sudo apt install snapd
 
 install:
-  - go get github.com/kardianos/govendor
-  - govendor get github.com/gohugoio/hugo
-  - go install github.com/gohugoio/hugo
+  - snap install hugo
 
 before_script:
   - mkdir themes
