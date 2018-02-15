@@ -1,5 +1,6 @@
 baseurl = "https://maguri.github.io/acadir/"
 title = "Acadir"
+baseicon = "${baseurl}images/logo.ico"
 theme = "acadir-theme"
 languageCode = "en-us"
 defaultContentLanguage = "cat"
