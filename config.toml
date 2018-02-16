@@ -1,6 +1,5 @@
 baseurl = "https://maguri.github.io/acadir/"
-title = "Acadir"
-baseicon = "https://maguri.github.io/acadir/images/logo.ico"
+title = "ACADIR"
 theme = "acadir-theme"
 languageCode = "en-us"
 defaultContentLanguage = "cat"
@@ -10,6 +9,7 @@ disableKinds=["RSS"]
 [params]
   description = 'Descripció ACADIR<br />'
   logoimage = "images/logo.svg"
+  baseicon = "https://raw.githubusercontent.com/maguri/acadir/master/static/images/logo.ico"
   copyright = "Oriol Mauri"
 
 [[params.social]]

@@ -29,8 +29,7 @@ before_script:
   - git clone --depth 1 https://github.com/maguri/acadir-theme.git $TRAVIS_BUILD_DIR/themes/acadir-theme/
 
 script:
-  - cd $TRAVIS_BUILD_DIR
-  - hugo
+  - hugo -s $TRAVIS_BUILD_DIR
 
 deploy:
   provider: pages
