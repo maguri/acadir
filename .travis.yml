@@ -16,17 +16,20 @@ env:
 before_install:
   - export GOPATH=$HOME/go
   - export PATH=$PATH:$GOPATH/bin
-  - sudo apt update
-  - sudo apt install snapd
 
 install:
-  - snap install hugo
+  - go get github.com/magefile/mage
+  - go get -d github.com/gohugoio/hugo
+  - cd $HOME/go/src/github.com/gohugoio/hugo
+  - mage vendor
+  - mage install
 
 before_script:
-  - mkdir themes
-  - git clone --depth 1 https://github.com/maguri/acadir-theme.git themes/acadir-theme/
+  - mkdir $TRAVIS_BUILD_DIR/themes
+  - git clone --depth 1 https://github.com/maguri/acadir-theme.git $TRAVIS_BUILD_DIR/themes/acadir-theme/
 
 script:
+  - cd $TRAVIS_BUILD_DIR
   - hugo
 
 deploy:
