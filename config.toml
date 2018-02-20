@@ -1,4 +1,4 @@
-baseurl = "https://maguri.github.io/acadir/"
+baseurl = "http://www.aikidotarragona.org"
 title = "ACADIR"
 theme = "acadir-theme"
 languageCode = "en-us"
@@ -15,12 +15,12 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/aikidoacadir/"
 
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/aikidotgn"
 
 [[params.social]]
   medium = "instagram"
@@ -28,14 +28,10 @@ disableKinds=["RSS"]
   link = "#"
 
 [[params.social]]
-  medium = "file-image-o"
-  icon = "file-image-o"
-  link = "#"
+  medium = "google-plus"
+  icon = "google-plus"
+  link = "https://plus.google.com/u/0/107719984313749568770"
 
-[[params.social]]
-  medium = "file-text"
-  icon = "file-text"
-  link = "#"
 [languages]
 [languages.cat]
 languageName = "Català"
