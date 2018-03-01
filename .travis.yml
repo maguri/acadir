@@ -30,7 +30,7 @@ before_script:
 
 script:
   - hugo -s $TRAVIS_BUILD_DIR
-  - echo "www.aikidotarragona.org" >> $TRAVIS_BUILD_DIR/public/CNAME
+  - echo "[CNAME](www.aikidotarragona.org)" >> $TRAVIS_BUILD_DIR/public/CNAME
 
 deploy:
   provider: pages
