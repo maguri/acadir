@@ -1,10 +1,15 @@
 +++
-title = "Intro"
-weight = 10
+title = "Filosofia"
+weight = 40
 draft = false
 +++
 
-{{< figure class="image main" src="images/pic01.jpg" >}}
-Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my [awesome work](#work).
+{{< figure class="image main" src="images/filosofia.jpg" >}}
+<div style="text-align: justify">
+  Amb l'<strong>Aikido d'Iwama</strong>
+  preservem i compartim la gran influència del meu pare <strong>Morihiro</strong>, mentre seguim fidels a l'herència tècnica i esperitual deixades pel Fundador <strong>Morihei Ueshiba</strong>.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+  Continuament, intentem millorar a través de la intensiva i sistemàtica tècnica de kihon, i creiem que cada entrenament es una oportunitat única per sentir-se més propers al Fundador. Primerament aplico aquestes tècniques amb mi mateix.
+
+  <p style="text-align:right">Hitohira Saito　Iwama Shinshin Aiki Shurenkai.</p>
+</div>

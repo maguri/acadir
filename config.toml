@@ -7,10 +7,12 @@ defaultContentLanguage = "cat"
 disableKinds=["RSS"]
 
 [params]
-  description = 'Descripció ACADIR<br />'
+  description = "Associació Catalana d'Aikido Dento Iwama Ryu<br />"
   logoimage = "images/logo.svg"
   baseicon = "https://raw.githubusercontent.com/maguri/acadir/master/static/images/logo.ico"
-  copyright = "Oriol Mauri"
+  copyright = "ACADIR"
+  developer = "maguri"
+  github = "https://github.com/maguri"
 
 [[params.social]]
   medium = "facebook"
@@ -20,12 +22,12 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
-  link = "https://twitter.com/aikidotgn"
+  link = "https://twitter.com/aikidotgn/"
 
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/acadir2007/"
 
 [[params.social]]
   medium = "google-plus"
