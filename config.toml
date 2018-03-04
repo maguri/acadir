@@ -9,10 +9,10 @@ disableKinds=["RSS"]
 [params]
   description = "Associació Catalana d'Aikido Dento Iwama Ryu<br />"
   logoimage = "images/logo.svg"
-  baseicon = "https://raw.githubusercontent.com/maguri/acadir/master/static/images/logo.ico"
+  baseicon = "https://raw.githubusercontent.com/maguri/acadir/master/static/images/favicon.ico"
   copyright = "ACADIR"
   developer = "maguri"
-  github = "https://github.com/maguri"
+  cv = "https://maguri.github.io/cv/"
 
 [[params.social]]
   medium = "facebook"

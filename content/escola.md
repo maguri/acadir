@@ -1,5 +1,5 @@
 +++
-title = "Escola"
+title = "Classes"
 weight = 20
 draft = false
 +++
@@ -11,14 +11,12 @@ draft = false
   <hr>
   Sabies que l'<strong>Aikido</strong> és un conjunt de tècniques ideals per al creixement i desenvolupament infantil? Aquests són alguns dels beneficis de la seva pràctica:
 
-  <ul>
-    <li>Reforça les habilitats físiques i de coordinació</li>
-    <li>Millora l'autoconfiança i autodisciplina</li>
-    <li>Estimula l'autosuperació</li>
-    <li>Cultiva la constància i l'esforç</li>
-    <li>Promou la cooperació i la no competitivitat</li>
-    <li>Respecte pel mestre i companys</li>
-    <li>Afavoreix la concentració</li>
-    <li>Fomenta la igualtat de gènere</li>
-  </ul>
+- Reforça les habilitats físiques i de coordinació
+- Millora l'autoconfiança i autodisciplina
+- Estimula l'autosuperació
+- Cultiva la constància i l'esforç
+- Promou la cooperació i la no competitivitat
+- Respecte pel mestre i companys
+- Afavoreix la concentració
+- Fomenta la igualtat de gènere
 </div>
