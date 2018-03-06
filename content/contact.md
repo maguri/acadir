@@ -1,6 +1,6 @@
 +++
 title = "Contacte"
-weight = 50
+weight = 60
 draft = false
 +++
 
