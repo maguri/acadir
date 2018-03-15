@@ -5,7 +5,6 @@ draft = false
 +++
 
 {{< figure class="image main" style="float: right;" src="images/escola.jpg" >}}
-<div style="text-align: justify">
 
 ## HORARIS
 
@@ -26,9 +25,11 @@ draft = false
 
 <div class="row">
   <div class="column-timetable">
-    <strong>Dimarts</strong> i <strong>dijous</strong> (de 6 a 10 anys).
+    <strong>Dimarts</strong> i <strong>dijous</strong>
+    <p>(de 6 a 10 anys).</p>
     <p>De 17.30h a 18:30h</p>
-    <strong>Dimarts</strong> i <strong>dijous</strong> (de 11 a 15 anys).
+    <strong>Dimarts</strong> i <strong>dijous</strong>
+    <p>(de 11 a 15 anys).</p>
     <p>De 18:45h a 19:45h</p>
   </div>
   <div class="column-instructor" style="text-align: center;">
@@ -37,11 +38,9 @@ draft = false
   </div>
 </div>
 
-<hr>
-
-### Aikido
-
+## Beneficis
   Sabies que l'<strong>Aikido</strong> és un conjunt de tècniques ideals per al creixement i desenvolupament infantil? Aquests són alguns dels beneficis de la seva pràctica:
+
 
 - Reforça les habilitats físiques i de coordinació
 - Millora l'autoconfiança i autodisciplina
@@ -51,4 +50,3 @@ draft = false
 - Respecte pel mestre i companys
 - Afavoreix la concentració
 - Fomenta la igualtat de gènere
-</div>
