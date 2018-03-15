@@ -3,6 +3,7 @@ title = "ACADIR"
 theme = "acadir-theme"
 languageCode = "en-us"
 defaultContentLanguage = "cat"
+googleAnalytics = "UA-115814963-1"
 # enableRobotsTXT = true
 disableKinds=["RSS"]
 
