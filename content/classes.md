@@ -6,7 +6,7 @@ draft = false
 
 {{< figure class="image main" style="float: right;" src="images/escola.jpg" >}}
 
-## HORARIS
+## Club Natació Tarraco
 
 ### Classes Adults
 <div class="row">
@@ -17,11 +17,11 @@ draft = false
   </div>
   <div class="column-instructor" style="text-align:center;">
     <img src="images/inst-1.png" height="60" width="60">
-    <p>Instructor: <strong>Josep Roldán</strong></p>
+    <p>Mestre: <strong>Josep Roldán</strong></p>
   </div>
 </div>
 
-### Classes Aikido Infantil
+### Classes Infantils
 
 <div class="row">
   <div class="column-timetable">
@@ -35,6 +35,22 @@ draft = false
   <div class="column-instructor" style="text-align: center;">
     {{< figure src="images/inst-2.png" height="63" width="63">}}
     <p>Instructor: <strong>Ferran Ruiz</strong></p>
+  </div>
+</div>
+
+## Club Esportiu Gembukai
+
+### Classes Adults
+
+<div class="row">
+  <div class="column-timetable">
+    <strong>Dimarts</strong> i <strong>dijous</strong>
+    <p> (a partir de 16 anys).</p>
+    <p>De 20:30h a 22:00h</p>
+  </div>
+  <div class="column-instructor" style="text-align: center;">
+    {{< figure src="images/inst-3.png" height="63" width="63">}}
+    <p>Instructor: <strong>Javier Romeo</strong></p>
   </div>
 </div>
 
