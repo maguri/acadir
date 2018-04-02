@@ -4,8 +4,17 @@ weight = 60
 draft = false
 +++
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.6792101467636!2d1.2590779505723646!3d41.11969652040898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a3fcce6c64a441%3A0x60a18a1099324888!2sClub+de+Nataci%C3%B3+Tarraco!5e0!3m2!1sen!2ses!4v1519899702247" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
-El nostre dojo està situat al <strong><a href="http://www.cntarraco.cat/cat/seccions/406/aikido" target="_blank">Club de Natació Tarraco</a></strong>.
+<button id="button_tarraco" class="tablink active" onclick="openPage('tarraco')">Tarragona</button>
+<button id="button_gembukai" class="tablink" onclick="openPage('gembukai')" id="defaultOpen">Bonavista</button>
+
+<div id="gembukai" hidden>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.796468965397!2d1.1900537508851787!3d41.117135920566426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a1578b3a8c4de7%3A0xdab6129bb668b585!2sGembu-Kai+Club+Esportiu!5e0!3m2!1ses!2ses!4v1522689375829" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+També impartim classes al dojo <strong>Gembu-Kai Club Esportiu</strong>, a Bonavista.
+</div>
+<div id="tarraco">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.6792101467636!2d1.2590779505723646!3d41.11969652040898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a3fcce6c64a441%3A0x60a18a1099324888!2sClub+de+Nataci%C3%B3+Tarraco!5e0!3m2!1sen!2ses!4v1519899702247" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+	El nostre dojo està cituat al <strong>Club Natació Tarraco</strong>, al centre de Tarragona.
+</div>
 <hr>
 Si tens cap dubte o pregunta no dubtis en posar-te en contacte amb nosaltres:
 
@@ -40,4 +49,21 @@ $(document).ready(function($) {
         }
     });
 });
+
+function openPage(page) {
+	switch(page){
+		case 'tarraco':
+			$('#gembukai').hide();
+			$('#tarraco').show();
+			$('#button_gembukai').removeClass('active');
+			$('#button_tarraco').addClass('active');
+			break;
+		case 'gembukai':
+			$('#tarraco').hide();
+			$('#gembukai').show();
+			$('#button_tarraco').removeClass('active');
+			$('#button_gembukai').addClass('active');
+			break;
+	}
+}
 </script>
