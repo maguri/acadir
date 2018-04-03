@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-{{< figure class="image main" style="float: right;" src="images/escola.jpg" >}}
+{{< figure class="image main" style="float: right;" src="images/escola.jpeg" >}}
 
 ## Club Natació Tarraco
 
@@ -17,7 +17,8 @@ draft = false
   </div>
   <div class="column-instructor" style="text-align:center;">
     <img src="images/inst-1.png" height="60" width="60">
-    <p>Mestre: <strong>Josep Roldán</strong></p>
+    <p>Mestre: <strong>Josep Roldán</strong><br/>
+    3r Dan Aikido Dento Iwama Ryu</p>
   </div>
 </div>
 
@@ -34,7 +35,8 @@ draft = false
   </div>
   <div class="column-instructor" style="text-align: center;">
     {{< figure src="images/inst-2.png" height="63" width="63">}}
-    <p>Instructor: <strong>Ferran Ruiz</strong></p>
+    <p>Instructor: <strong>Ferran Ruiz</strong><br/>
+    1r Dan Aikido</p>
   </div>
 </div>
 
@@ -50,7 +52,8 @@ draft = false
   </div>
   <div class="column-instructor" style="text-align: center;">
     {{< figure src="images/inst-3.png" height="63" width="63">}}
-    <p>Instructor: <strong>Javier Romeo</strong></p>
+    <p>Instructor: <strong>Javier Romeo</strong><br/>
+    1r Dan Aikido</p>
   </div>
 </div>
 
