@@ -33,7 +33,7 @@ Si tens cap dubte o pregunta no dubtis en posar-te en contacte amb nosaltres:
 		<li><input type="reset" value="Netejar"></span></li>
 	</ul>
 	<input type="hidden" name="_next" value="?sent#formspree" />
-	<input type="hidden" name="_subject" value="Subject for your mail like new message" />
+	<input type="hidden" name="_subject" value="[WEB] - Consulta" />
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
 <span id="contactformsent">Gràcies pel seu missatge</span>
