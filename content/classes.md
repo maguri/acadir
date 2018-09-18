@@ -8,12 +8,15 @@ draft = false
 
 ## Club Natació Tarraco
 
-### Classes Adults
 <div class="row">
   <div class="column-timetable">
-    <strong>Dilluns</strong>, <strong>Dimecres</strong> i <strong>divendres</strong>
-    <p> (a partir de 16 anys).</p>
-    <p>De 18.30h a 20.00h i de 20.00h a 21.30h</p>
+    <h3 id="classes-adults">Classes Adults</h3>
+    <strong>Dilluns</strong>, <strong>Dimecres</strong> i <strong>Divendres</strong>
+    <p style="margin-bottom: 1rem">(a partir de 16 anys)</p>
+    <ul>
+      <li>De 18.30h a 20.00h</li>
+      <li>De 20.00h a 21.30h</li>
+    </ul>
   </div>
   <div class="column-instructor" style="text-align:center;">
     <img src="images/inst-1.png" height="60" width="60">
@@ -24,16 +27,15 @@ draft = false
   </div>
 </div>
 
-### Classes Infantils
-
 <div class="row">
   <div class="column-timetable">
-    <strong>Dimarts</strong> i <strong>dijous</strong>
-    <p>(de 6 a 10 anys).</p>
-    <p>De 17.30h a 18:30h</p>
-    <strong>Dimarts</strong> i <strong>dijous</strong>
-    <p>(de 11 a 15 anys).</p>
-    <p>De 18:45h a 19:45h</p>
+    <h3 id="classes-adults">Classes Infantils</h3>
+    <strong>Dimarts</strong> i <strong>Dijous</strong>
+    <ul>
+      <li>De 17.30h a 18:30h (de 6 a 8 anys)</li>
+      <li>De 18:30h a 19:30h (de 9 a 11 anys)</li>
+      <li>De 19:30h a 20:30h (de 12 a 15 anys)</li>
+    </ul>
   </div>
   <div class="column-instructor" style="text-align: center;">
     {{< figure src="images/inst-2.png" height="63" width="63">}}
@@ -44,13 +46,14 @@ draft = false
 
 ## Club Esportiu Gembukai
 
-### Classes Adults
-
 <div class="row">
   <div class="column-timetable">
-    <strong>Dimarts</strong> i <strong>dijous</strong>
-    <p> (a partir de 16 anys).</p>
-    <p>De 20:30h a 22:00h</p>
+    <h3 id="classes-adults">Classes Adults</h3>
+    <strong>Dimarts</strong> i <strong>Dijous</strong>
+    <p style="margin-bottom: 1rem">(a partir de 16 anys)</p>
+    <ul>
+      <li>De 20:30h a 22:00h</li>
+    </ul>
   </div>
   <div class="column-instructor" style="text-align: center;">
     {{< figure src="images/inst-3.png" height="63" width="63">}}
@@ -60,7 +63,7 @@ draft = false
 </div>
 
 ## Beneficis
-  Sabies que l'<strong>Aikido</strong> és un conjunt de tècniques ideals per al creixement i desenvolupament infantil? Aquests són alguns dels beneficis de la seva pràctica:
+  Sabies que l'<strong>Aikido</strong> és un conjunt de tècniques ideals pel creixement i desenvolupament infantil? Aquests són alguns dels beneficis de la seva pràctica:
 
 
 - Reforça les habilitats físiques i de coordinació

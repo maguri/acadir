@@ -18,10 +18,9 @@ before_install:
   - export PATH=$PATH:$GOPATH/bin
 
 install:
-  - go get github.com/magefile/mage
+  - go get -u github.com/magefile/mage
   - go get -d github.com/gohugoio/hugo
   - cd $HOME/go/src/github.com/gohugoio/hugo
-  - mage vendor
   - mage install
 
 before_script:
