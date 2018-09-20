@@ -18,7 +18,8 @@ També impartim classes al dojo <strong>Gembu-Kai Club Esportiu</strong>, a Bona
 <hr>
 Si tens cap dubte o pregunta no dubtis en posar-te en contacte amb nosaltres:
 
-<form id="contactform" method="post" action="https://formspree.io/infoacadir@gmail.com">
+<form id="contactform" method="post" action="https://formspree.io/jrstarragona@gmail.com">
+	<input type="hidden" name="_cc" value="infoacadir@gmail.com" />
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Nom"/>
 	</div>
