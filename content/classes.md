@@ -17,6 +17,13 @@ draft = false
       <li>De 18.30h a 20.00h</li>
       <li>De 20.00h a 21.30h</li>
     </ul>
+    <i>
+      <strong style="margin-bottom: 0rem">Preus:</strong>
+      <ul>
+        <li>42€ /mes (només Aïkido)</li>
+        <li>52.5€ /mes (més ser Soci)</li>
+      </ul>
+    </i>
   </div>
   <div class="column-instructor" style="text-align:center;">
     <img src="images/inst-1.png" height="60" width="60">
@@ -36,7 +43,23 @@ draft = false
       <li>De 18:30h a 19:30h (de 9 a 11 anys)</li>
       <li>De 19:30h a 20:30h (de 12 a 15 anys)</li>
     </ul>
+    <i>
+      <strong style="margin-bottom: 0rem">Preus:</strong>
+      <ul>
+        <li>2 dies a la setmana:</li>
+        <ul>
+          <li>32€ /mes (Socis)</li>
+          <li>37€ /mes (No Socis)</li>
+        </ul>
+        <li>1 dia a la setmana:</li>
+        <ul>
+          <li>22€ /mes (Socis)</li>
+          <li>24€ /mes (No Socis)</li>
+        </ul>
+      </ul>
+    </i>
   </div>
+
   <div class="column-instructor" style="text-align: center;">
     {{< figure src="images/inst-2.png" height="63" width="63">}}
     <p>Instructor: <br><strong>Ferran Ruiz</strong><br/>
@@ -54,6 +77,12 @@ draft = false
     <ul>
       <li>De 20:30h a 22:00h</li>
     </ul>
+    <i>
+      <strong style="margin-bottom: 0rem">Preus:</strong>
+      <ul>
+        <li>40€ /mes</li>
+      </ul>
+    </i>
   </div>
   <div class="column-instructor" style="text-align: center;">
     {{< figure src="images/inst-3.png" height="63" width="63">}}

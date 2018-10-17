@@ -16,10 +16,9 @@ També impartim classes al dojo <strong>Gembu-Kai Club Esportiu</strong>, a Bona
 	El nostre dojo està cituat al <strong>Club Natació Tarraco</strong>, al centre de Tarragona.
 </div>
 <hr>
-Si tens cap dubte o pregunta no dubtis en posar-te en contacte amb nosaltres:
-
-<form id="contactform" method="post" action="https://formspree.io/jrstarragona@gmail.com">
-	<input type="hidden" name="_cc" value="infoacadir@gmail.com" />
+<form id='contactform' method='post' action=''>
+  Si tens cap dubte o pregunta no dubtis en posar-te en contacte amb nosaltres:
+	<input type="hidden" name="_cc" id="_cc" />
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Nom"/>
 	</div>
@@ -37,18 +36,25 @@ Si tens cap dubte o pregunta no dubtis en posar-te en contacte amb nosaltres:
 	<input type="hidden" name="_subject" value="[WEB] - Consulta" />
 	<input type="text" name="_gotcha" style="display:none" />
 </form>
-<span id="contactformsent">Gràcies pel seu missatge</span>
+<span id="contactformsent">
+  <p>Gràcies pel seu missatge. Al més aviat possible ens posarem en contacte amb vostè directament pel correu electrònic proporcionat.</p>
+</span>
 
 <script>
 $(document).ready(function($) {
-    $(function(){
-        if (window.location.search == "?sent") {
-        	$('#contactform').hide();
-        	$('#contactformsent').show();
-        } else {
-        	$('#contactformsent').hide();
-        }
-    });
+  var email_cc = window.atob("aW5mb2FjYWRpckBnbWFpbC5jb20=");
+  $('#_cc').val(email_cc);
+  var email_to = window.atob("anJzdGFycmFnb25hQGdtYWlsLmNvbQ==");
+  $('#contactform').attr("action", "https://formspree.io/" + email_to);
+
+  $(function(){
+      if (window.location.search == "?sent") {
+      	$('#contactform').hide();
+      	$('#contactformsent').show();
+      } else {
+      	$('#contactformsent').hide();
+      }
+  });
 });
 
 function openPage(page) {
