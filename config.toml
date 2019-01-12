@@ -1,13 +1,14 @@
 baseurl = "http://www.aikidotarragona.org"
-title = "ACADIR"
+Title = "AIKIDO Tarragona - Escola Infantil i Adults"
 theme = "acadir-theme"
 languageCode = "en-us"
 defaultContentLanguage = "cat"
 googleAnalytics = "UA-115814963-1"
-# enableRobotsTXT = true
+enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
+  title = "ACADIR"
   description = "Associació Catalana d'Aikido Dento Iwama Ryu<br />"
   logoimage = "images/logo.svg"
   baseicon = "https://raw.githubusercontent.com/maguri/acadir/master/static/images/favicon.ico"
@@ -16,22 +17,22 @@ disableKinds=["RSS"]
   cv = "https://maguri.github.io/cv/"
 
 [[params.social]]
-  medium = "facebook"
+  medium = "Facebook aikidoacadir"
   icon = "facebook"
   link = "https://www.facebook.com/aikidoacadir/"
 
 [[params.social]]
-  medium = "twitter"
+  medium = "Twitter aikidotgn"
   icon = "twitter"
   link = "https://twitter.com/aikidotgn/"
 
 [[params.social]]
-  medium = "instagram"
+  medium = "Instagram acadir2007"
   icon = "instagram"
   link = "https://www.instagram.com/acadir2007/"
 
 [[params.social]]
-  medium = "google-plus"
+  medium = "Google Plus infoacadir"
   icon = "google-plus"
   link = "https://plus.google.com/u/0/107719984313749568770"
 

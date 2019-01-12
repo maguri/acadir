@@ -4,7 +4,7 @@ weight = 30
 draft = false
 +++
 
-{{< figure class="image main" src="images/aikido.jpg" >}}
+{{< figure class="image main" src="images/aikido.jpg" alt="Mar Aikido Katana Boken AIKIDO DENTO IWAMA RYU" >}}
 <div style="text-align: justify">
   L'<strong>Aikido</strong> és un art marcial d'autodefensa d'origen japonès consistent en neutralitzar amb el mínim de violència possible, l'acció agressiva de l'oponent mitjançant tècniques d'immobilització i projecció. És un magnífica síntesi de les arts marcials tradicionals japoneses, perquè a més de ser un sistema eficaç de defensa personal és una disciplina per al desenvolupament personal, tant físic com espiritual.
 

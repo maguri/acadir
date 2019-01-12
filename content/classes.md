@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-{{< figure class="image main" style="float: right;" src="images/escola.jpeg" >}}
+{{< figure class="image main" style="float: right;" src="images/escola.jpeg" alt="Escola Aikido Infantil Activitats extraescolars Tarragona" >}}
 
 ## Club Natació Tarraco
 
@@ -26,7 +26,7 @@ draft = false
     </i>
   </div>
   <div class="column-instructor" style="text-align:center;">
-    <img src="images/inst-1.png" height="60" width="60">
+    <img src="images/inst-1.png" height="60" width="60" alt="Aikido - Entrenador - Artista Marcial">
     <p>Mestre:<br>
     <strong>Josep Roldán</strong><br/>
     3r Dan<br>
@@ -61,7 +61,7 @@ draft = false
   </div>
 
   <div class="column-instructor" style="text-align: center;">
-    {{< figure src="images/inst-2.png" height="63" width="63">}}
+    {{< figure src="images/inst-2.png" height="63" width="63" alt="Aikido - Profesor Infantil - Artista Marcial">}}
     <p>Instructor: <br><strong>Ferran Ruiz</strong><br/>
     1r Dan</p>
   </div>
@@ -85,7 +85,7 @@ draft = false
     </i>
   </div>
   <div class="column-instructor" style="text-align: center;">
-    {{< figure src="images/inst-3.png" height="63" width="63">}}
+    {{< figure src="images/inst-3.png" height="63" width="63" alt="Aikido - Entrenador - Artista Marcial">}}
     <p>Instructor: <br><strong>Javier Romeo</strong><br/>
     1r Dan</p>
   </div>
