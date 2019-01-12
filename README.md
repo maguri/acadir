@@ -2,8 +2,13 @@
 # ACADIR
 🇯🇵 **Associació Catalana d'Aikido Dento Iwama Ryu** official Web Site 🎋
 
+You can visit what we do here: www.aikidotarragona.org
+
 # Specifications
 - Hosted by [GitHub Pages](https://pages.github.com/)
 - Designed with [HTML5](https://html5up.net)
 - Powered by [Hugo](https://gohugo.io/)
 - Hugo theme [Dimension](https://themes.gohugo.io/dimension/)
+
+# Licence
+This is a website created altruistically to my Dojo Association from my truly love for the Aikido and the partners with who I share this feeling.
