@@ -1,5 +1,4 @@
 baseurl = "http://www.aikidotarragona.org"
-Title = "AIKIDO Tarragona - Escola Infantil i Adults"
 theme = "acadir-theme"
 languageCode = "en-us"
 defaultContentLanguage = "cat"
@@ -17,22 +16,22 @@ disableKinds=["RSS"]
   cv = "https://maguri.github.io/cv/"
 
 [[params.social]]
-  medium = "Facebook aikidoacadir"
+  medium = "Facebook Aikido Tarragona"
   icon = "facebook"
   link = "https://www.facebook.com/aikidoacadir/"
 
 [[params.social]]
-  medium = "Twitter aikidotgn"
+  medium = "Twitter Aikido Tarragona"
   icon = "twitter"
   link = "https://twitter.com/aikidotgn/"
 
 [[params.social]]
-  medium = "Instagram acadir2007"
+  medium = "Instagram Aikido Tarragona"
   icon = "instagram"
-  link = "https://www.instagram.com/acadir2007/"
+  link = "https://www.instagram.com/acadir_tarragona/"
 
 [[params.social]]
-  medium = "Google Plus infoacadir"
+  medium = "Google Plus Aikido Tarragona"
   icon = "google-plus"
   link = "https://plus.google.com/u/0/107719984313749568770"
 

@@ -5,6 +5,10 @@ draft = false
 +++
 
 {{< figure class="image main" src="images/filosofia.jpg" alt="Dojo Hitohiro Saito Iwama Shinshin Aiki Shurenkai AIKIDO DENTO IWAMA RYU" >}}
+Som una escola fidel a l'<strong>Aikido</strong> d' <i>Iwama Shinshin Aiki Shurenkai</i> que està al dia de les ensenyances del mestre <strong>Hitohiro Saito</strong>, fill de <strong>Morihito Saito</strong> i alumne de O Sensei <strong>Morihei Ueshiba</strong>.
+
+<hr style="border-bottom: solid 1px #514234;">
+
 <div style="text-align: justify">
   Amb l'<strong>Aikido</strong> d'<strong>Iwama</strong>
   preservem i compartim la gran influència del meu pare <strong>Morihiro</strong>, mentre seguim fidels a l'herència tècnica i espiritual deixades pel Fundador <strong>Morihei Ueshiba</strong>.

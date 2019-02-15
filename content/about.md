@@ -10,6 +10,10 @@ draft = false
 
   Es reconeix a <strong>Morihiro Saito Sensei</strong> com a fundador de l’escola d’Aikido d’Iwama i a <strong>Hitohiro Saito Sensei</strong> com a fundador de l’escola d’<strong>Aikido Dento Iwama Ryu</strong>.
 
-  Hem exercit la pràctica de l'<strong>Aikido</strong> al
-  <a href="http://www.cntarraco.cat/cat/seccions/406/aikido" target="_blank">CN Tarraco</a> durant més de 10 anys, i ara estem orgullosos de crear la <a href="#classes"><strong>Secció Infantil</strong></a>.
+  Hem exercit la pràctica de l'<strong>Aikido</strong> durant més de 10 anys, i ara estem orgullosos de crear la <a href="#classes"><strong>Secció Infantil</strong></a>.
+
+  <div style="text-align:right">
+    Pots veure tot el que fem al nostre **<a href="https://plus.google.com/u/0/collection/gDzgTE" target="_blank">Àlbum de Fotos</a>**.
+    <img src="images/escudo.jpg" height="60" width="60" alt="Aikido Hitohiro Saito">
+  </div>
 </div>
