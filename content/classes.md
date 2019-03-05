@@ -14,8 +14,11 @@ draft = false
     <strong>Dilluns</strong>, <strong>Dimecres</strong> i <strong>Divendres</strong>
     <p style="margin-bottom: 1rem">(a partir de 16 anys)</p>
     <ul>
-      <li>De 18.30h a 20.00h</li>
-      <li>De 20.00h a 21.30h</li>
+      <li>De 20:00h a 21:30h</li>
+    </ul>
+    <strong>Dimarts</strong> i <strong>Dijous</strong>
+    <ul>
+      <li>De 7:00h a 8:00h</li>
     </ul>
   </div>
   <div class="column-instructor" style="text-align:center;">
@@ -32,7 +35,7 @@ draft = false
     <h3 id="classes-adults">Classes Infantils</h3>
     <strong>Dimarts</strong> i <strong>Dijous</strong>
     <ul>
-      <li>De 17.30h a 18:30h (de 6 a 8 anys)</li>
+      <li>De 17:30h a 18:30h (de 6 a 8 anys)</li>
       <li>De 18:30h a 19:30h (de 9 a 11 anys)</li>
       <li>De 19:30h a 20:30h (de 12 a 15 anys)</li>
     </ul>
