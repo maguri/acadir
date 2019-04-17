@@ -31,9 +31,9 @@ disableKinds=["RSS"]
   link = "https://www.instagram.com/acadir_tarragona/"
 
 [[params.social]]
-  medium = "Google Plus Aikido Tarragona"
-  icon = "google-plus"
-  link = "https://plus.google.com/u/0/107719984313749568770"
+  medium = "Album Aikido Tarragona"
+  icon = "photo"
+  link = "https://sites.google.com/view/aikidotarragona/"
 
 [languages]
 [languages.cat]
