@@ -1,6 +1,6 @@
 +++
 title = "Filosofia"
-weight = 40
+weight = 50
 draft = false
 +++
 
