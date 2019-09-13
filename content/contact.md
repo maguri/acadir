@@ -13,7 +13,7 @@ draft = false
 </div>
 <div id="tarraco">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.6792101467636!2d1.2590779505723646!3d41.11969652040898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a3fcce6c64a441%3A0x60a18a1099324888!2sClub+de+Nataci%C3%B3+Tarraco!5e0!3m2!1sen!2ses!4v1519899702247" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
-	El nostre dojo està cituat al <strong>Club Natació Tarraco</strong>, al centre de Tarragona.
+	El nostre dojo està situat al <strong>Club Natació Tarraco</strong>, al centre de Tarragona.
 </div>
 <hr>
 <form id='contactform' method='post' action=''>
