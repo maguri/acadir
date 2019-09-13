@@ -17,7 +17,7 @@ hiden = true
 
   <strong>Formspreee</strong>
 
-  <p>Aquest lloc web utilitza un formulari gestionat per la plataforma externa FormSpree. Si vol enviar cap consulta per mitjà del formulari desde la nostra pàgina de contacte sobreentendrem que ha llegit i acceptat les  <a target="_blank" href="https://formspree.io/static/TermsOfUse.pdf">Condicions d'ús</a> i les <a target="_blank" href="https://formspree.io/static/PrivacyPolicy.pdf" rel="external nofollow">polítiques de privacitat</a> d'aquesta plataforma.</p>
+  <p>Aquest lloc web utilitza un formulari gestionat per la plataforma externa FormSpree. Si vol enviar cap consulta per mitjà del formulari desde la nostra pàgina de contacte sobreentendrem que ha llegit i acceptat les  <a target="_blank" href="https://docs.formspree.io/files/terms.pdf">Condicions d'ús</a> i les <a target="_blank" href="https://docs.formspree.io/files/privacy.pdf" rel="external nofollow">polítiques de privacitat</a> d'aquesta plataforma.</p>
 
   <a href="#" class="button" style="text-align:right">Accept</a>
 </div>

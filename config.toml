@@ -21,16 +21,23 @@ disableKinds=["RSS"]
   link = "https://www.facebook.com/aikidoacadir/"
 
 [[params.social]]
-  medium = "Twitter Aikido Tarragona"
-  icon = "twitter"
-  link = "https://twitter.com/aikidotgn/"
-
-[[params.social]]
   medium = "Instagram Aikido Tarragona"
   icon = "instagram"
   link = "https://www.instagram.com/acadir_tarragona/"
 
 [[params.social]]
+  medium = "Twitter Aikido Tarragona"
+  icon = "twitter"
+  link = "https://twitter.com/aikidotgn/"
+
+[[params.social]]
+  medium = "YouTube Aikido Tarragona"
+  icon = "youtube"
+  link = "https://www.youtube.com/channel/UCSAchRaks4wRy8VRAV4jnSg/"
+
+[[params.media]]
+  title = "Àlbum"
+  subtitle = "Aikido Tarragona"
   medium = "Album Aikido Tarragona"
   icon = "photo"
   link = "https://sites.google.com/view/aikidotarragona/"

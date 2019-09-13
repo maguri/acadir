@@ -1,5 +1,5 @@
 +++
-title = "Responsable"
+title = "Mestre"
 weight = 50
 draft = true
 +++

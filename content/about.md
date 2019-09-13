@@ -13,7 +13,7 @@ draft = false
   Hem exercit la pràctica de l'<strong>Aikido</strong> durant més de 10 anys, i ara estem orgullosos de crear la <a href="#classes"><strong>Secció Infantil</strong></a>.
 
   <div style="text-align:right">
-    Pots veure tot el que fem al nostre **<a href="https://plus.google.com/u/0/collection/gDzgTE" target="_blank">Àlbum de Fotos</a>**.
-    <img src="images/escudo.jpg" height="60" width="60" alt="Aikido Hitohiro Saito">
+    Pots veure tot el que fem al nostre **<a href="https://sites.google.com/view/aikidotarragona/" target="_blank">Àlbum de Fotos</a>**.
+    <img src="images/emblema.jpg" height="60" width="60" alt="Aikido Hitohiro Saito">
   </div>
 </div>

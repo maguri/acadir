@@ -48,7 +48,7 @@ draft = false
   </div>
 </div>
 
-<strong style="text-align: center; display: block;">Vine a probar unes classes sence compromís</strong>
+<strong style="text-align: center; display: block;">Vine a probar unes classes sense compromís</strong>
 
 <i style="text-align: right; display: block;">Consulta els preus a la web del club: <a href="http://www.cntarraco.cat/cat/seccions/406/aikido" target="_blank">Club Natació Tarraco</a></i>
 
