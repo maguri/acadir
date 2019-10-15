@@ -16,17 +16,14 @@ draft = false
     <ul>
       <li>De 20:00h a 21:30h</li>
     </ul>
-    <strong>Dimarts</strong> i <strong>Dijous</strong>
-    <ul>
-      <li>De 7:00h a 8:00h</li>
-    </ul>
   </div>
   <div class="column-instructor" style="text-align:center;">
-    <img src="images/inst-1.png" height="60" width="60" alt="Aikido - Entrenador - Artista Marcial">
-    <p>Mestre:<br>
-    <strong>Josep Roldán</strong><br/>
-    3r Dan<br>
-    Iwama Shin Shin Aiki Shuren Kai</p>
+    <a href="#teacher">
+      <img src="images/inst-1.png" height="60" width="60" alt="Aikido - Entrenador - Artista Marcial">
+      <p>Mestre:<br>
+      <strong>Josep Roldán</strong><br/>
+      3r Dan<br></p>
+    </a>
   </div>
 </div>
 

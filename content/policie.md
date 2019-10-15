@@ -1,6 +1,6 @@
 +++
 title = "Condicions de Privacitat"
-hiden = true
+hidden = true
 +++
 
 <div id="policies" style="text-align: justify">

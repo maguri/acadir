@@ -25,7 +25,7 @@ La finalitat de l'Escola és arribar a ser una **escola base de referència** i 
 <h3>FUNCIONAMENT I OBJECTIUS</h3>
 
 Per estructurar l’itinerari formatiu a desenvolupar, l'Escola segueix una planificació i una metodologia per tal que adquireixin progressivament les habilitats i competències necessàries i així arribar a dominar els fonaments de l'**Aikido**. Per a cada nivell hi ha un **programa predeterminat** que han de superar amb una avaluació i així avançar de grau.
-Malgrat això i el caràcter marcial de la nostra disciplina, el nostre **model no** és **competitiu**. Les activitats són col·laboratives i participatives, fomentant la igualtat de gènere i el caràcter recreatiu.
+Malgrat això i el caràcter marcial de la nostra disciplina, el nostre model **no** és **competitiu**. Les activitats són col·laboratives i participatives, fomentant la igualtat de gènere i el caràcter recreatiu.
 
 Fem prevaldre l'actuació motriu i no el rendiment. Busquem fomentar els **àmbits cognitiu**, cinestèsic, inter- i intrapersonals, l'esperit de cooperació, l'**autoconfiança** i el **treball en equip**.
 
