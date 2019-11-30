@@ -18,7 +18,7 @@ L'**Aikido** és una disciplina d'**origen japonès** enfocada a l'autodefensa q
 
 <h3>ACTUALITAT I FUTUR</h3>
 
-L'**Escola** s’inclou dins la secció d’Aikido del **Club Natació Tàrraco**. Es va fundà l’any 2017 i compta amb una trentena d'alumnes, **d'entre 6 a 15 anys**, dividits en **tres grups** per edats (6-8, 9-11 i 12-15) malgrat que és flexible.
+L'**Escola** s’inclou dins la secció d’Aikido del **Club Natació Tàrraco**. Es va fundar l’any 2017 i compta amb una trentena d'alumnes, **d'entre 6 a 15 anys**, dividits en **tres grups** per edats (6-8, 9-11 i 12-15) malgrat que és flexible.
 
 La finalitat de l'Escola és arribar a ser una **escola base de referència** i per aconseguir-ho compta amb un equip tècnic qualificat al capdavant, amb el suport de l'**Associació Catalana d'Aikido Dento Iwama Ryu (ACADIR)** i amb la cobertura total del club a nivell legal, de gestió i d'instal·lacions.
 

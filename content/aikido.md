@@ -17,7 +17,7 @@ draft = false
 
 Sabies que l'<strong>Aikido</strong> és un conjunt de tècniques ideals pel creixement i desenvolupament infantil?
 
-L'Escola té com a objectiu ajudar a millorar a l’alumnat en principalment les **intel·ligències cinètico-corporal**, tant a nivell **tècnic** i **físic**, com **intrapersonalment** (coneixes a un mateix) i **interpersonalment** (saber conviure en el si del grup d’entrenament). Per aconseguir aquesta millora educativa, els entrenaments estan pautats en diferents **nivells** o programes.
+L'Escola té com a objectiu ajudar a millorar a l’alumnat principalment en les **intel·ligències cinètico-corporal**, tant a nivell **tècnic** i **físic**, com **intrapersonalment** (conèixer-se a un mateix) i **interpersonalment** (saber conviure en el si del grup d’entrenament). Per aconseguir aquesta millora educativa, els entrenaments estan pautats en diferents **nivells** o programes.
 Des del punt de vista del model participatiu, preval l'actuació motriu i no el rendiment. Busca fomentar els **àmbits cognitius**, les relacions interpersonals, l'esperit de **cooperació en grup** i la sociabilitat.
 
 La pràctica continuada de l’**Aikido** permet que el jovent es beneficiï d’un seguit d’habilitats que permetran els infants millorar les seves competències en els àmbits estudiantil, esportiu o d’altres.
