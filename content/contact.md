@@ -12,7 +12,7 @@ draft = false
   També impartim classes al dojo <strong>Gembu-Kai Club Esportiu</strong>, a Bonavista.
 </div>
 <div id="tarraco">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3005.6793942600516!2d1.2590833!3d41.1196925!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a3fd1f443ca293%3A0xe37b40081f3e8982!2sAikido%20Tarragona!5e0!3m2!1sca!2ses!4v1568911339498!5m2!1sca!2ses" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3005.6793942600516!2d1.2590833!3d41.1196925!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a3fd1f443ca293%3A0xe37b40081f3e8982!2sAikido%20Tarragona!5e0!3m2!1sca!2ses!4v1568911339498!5m2!1sca!2ses" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 	El nostre dojo està situat al <strong>Club Natació Tarraco</strong>, al centre de Tarragona.
 </div>
 <hr>

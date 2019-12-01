@@ -6,6 +6,9 @@ googleAnalytics = "UA-115814963-1"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   title = "ACADIR"
   description = "Associació Catalana d'Aikido Dento Iwama Ryu<br />"
