@@ -26,6 +26,9 @@ draft = false
     </a>
   </div>
 </div>
+<div style="text-align: center; display: block">
+  <strong>Vine a probar unes classes sense compromís</strong>
+</div>
 <br>
 <div class="row">
   <div class="column-timetable">
@@ -43,13 +46,15 @@ draft = false
     1r Dan</p>
   </div>
 </div>
-<strong style="text-align: center; display: block;">Vine a probar unes classes sense compromís</strong>
-<br>
-<p style="text-align: center;">Ofertes per als vinculats d'<strong>EsportsURV</strong>.
-  <a href="http://www.urv.cat/ca/vida-campus/extensio-universitaria/activitat-fisica/esport/avantatges/escola-aikido-acadir/" target="_blank">Saber-ne més</a>.
-    <img src="images/urv-logo.png" height="50" alt="URV" style="margin-left: 2%;">
-</p>
-<i style="text-align: right; display: block;">Consulta els preus a la web del club: <a href="http://www.cntarraco.cat/cat/seccions/406/aikido" target="_blank">Club Natació Tarraco</a></i>
+<div style="text-align: center; display: block;">
+  <p><i>Consulta els preus a la web del club: <a href="http://www.cntarraco.cat/cat/seccions/406/aikido" target="_blank">Club Natació Tarraco</a></i></p>
+  <p><img src="images/cntarraco-logo.png" height="50" alt="URV" style="margin-top: -10%;"></p>
+
+  <p><i>Ofertes per als vinculats d'<strong>EsportsURV</strong>.
+    <a href="http://www.urv.cat/ca/vida-campus/extensio-universitaria/activitat-fisica/esport/avantatges/escola-aikido-acadir/" target="_blank">Saber-ne més</a>.
+  </i></p>
+  <p><img src="images/urv-logo.png" height="50" alt="URV" style="margin-top: -10%;"></p>
+</div>
 <br>
 <h2>Club Esportiu Gembukai</h2>
 <div class="row">
