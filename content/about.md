@@ -12,13 +12,13 @@ draft = false
 
   Hem exercit la pràctica de l'<strong>Aikido</strong> durant més de 10 anys, i ara estem orgullosos de crear la <a href="#school"><strong>Secció Infantil</strong></a>.
 
-<p>Com Associació reconeguda a la comarca de Tarragona, hem creat un <a href="#classes">conveni de col·laboració</a> amb la **Universitat Rovira i Virgili** per apropar l'**Aikido** als joves del territori.
+<p>Com Associació reconeguda a la comarca de Tarragona, hem creat un <a href="#classes">conveni de col·laboració</a> amb la <strong>Universitat Rovira i Virgili</strong> per apropar l'<strong>Aikido</strong> als joves del territori.
   <div style="text-align: center;">
     <img src="images/urv-logo.png" height="50" alt="URV" style="margin-left: 2%;">
   </div>
 </p>
   <div style="text-align:right">
-    Pots veure tot el que fem al nostre **<a href="https://sites.google.com/view/aikidotarragona/" target="_blank">Àlbum de Fotos</a>**.
+    Pots veure tot el que fem al nostre <a href="https://sites.google.com/view/aikidotarragona/" target="_blank"><strong>Àlbum de Fotos</strong></a>.
     <div style="text-align: center;">
       <img src="images/google-photos.png" height="60" width="60" alt="Aikido Hitohiro Saito">
     </div>
