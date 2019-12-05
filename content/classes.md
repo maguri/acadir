@@ -25,6 +25,13 @@ draft = false
       3r Dan<br></p>
     </a>
   </div>
+  <div class="column-timetable">
+  <h3 id="classes-adults">CLASSES DEFENSA PERSONAL FEMENINA</h3>
+    <strong>Divendres</strong>
+    <ul>
+      <li>De 18:30h a 20:00h</li>
+    </ul>
+    </div>
 </div>
 <div style="text-align: center; display: block">
   <strong>Vine a probar unes classes sense compromís</strong>
@@ -48,7 +55,7 @@ draft = false
 </div>
 <div style="text-align: center; display: block;">
   <p><i>Consulta els preus a la web del club: <a href="http://www.cntarraco.cat/cat/seccions/406/aikido" target="_blank">Club Natació Tarraco</a></i></p>
-  <p><img src="images/cntarraco-logo.png" height="50" alt="URV" style="margin-top: -10%;"></p>
+  <p><img src="images/cntarraco-logo.png" height="50" alt="cntarraco" style="margin-top: -10%;"></p>
 
   <p><i>Ofertes per als vinculats d'<strong>EsportsURV</strong>.
     <a href="http://www.urv.cat/ca/vida-campus/extensio-universitaria/activitat-fisica/esport/avantatges/escola-aikido-acadir/" target="_blank">Saber-ne més</a>.

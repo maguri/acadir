@@ -17,10 +17,10 @@ draft = false
     <img src="images/urv-logo.png" height="50" alt="URV" style="margin-left: 2%;">
   </div>
 </p>
-  <div style="text-align:right">
-    Pots veure tot el que fem al nostre <a href="https://sites.google.com/view/aikidotarragona/" target="_blank"><strong>Àlbum de Fotos</strong></a>.
-    <div style="text-align: center;">
-      <img src="images/google-photos.png" height="60" width="60" alt="Aikido Hitohiro Saito">
-    </div>
+  <div style="text-align:center">
+    <p>Pots veure tot el que fem al nostre <a href="https://sites.google.com/view/aikidotarragona/" target="_blank"><strong>Àlbum de Fotos</strong></a>.</p>
+    <a href="https://sites.google.com/view/aikidotarragona/" target="_blank">
+      <img src="images/google-photos.png" height="60" width="60" alt="Photos Aikido">
+    </a>
   </div>
 </div>
