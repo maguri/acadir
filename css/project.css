@@ -1,0 +1,53 @@
+.column-timetable {
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+
+.column-instructor {
+  float: right;
+  width: 40%;
+  padding: 10px;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a.icon.fa-facebook:hover {
+  color: #3B5998;
+}
+
+a.icon.fa-twitter:hover {
+  color: #1dcaff;
+}
+
+a.icon.fa-instagram:hover {
+  color: #fec66d;
+}
+
+a.icon.fa-youtube:hover {
+  color: #d34836;
+}
+
+a.icon.fa-photo:hover {
+  color: #fec66d;
+}
+
+/* Style tab links */
+.tablink {
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 50%;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.tablink.active {
+  background: rgba(19, 21, 25, 0.85);
+}
