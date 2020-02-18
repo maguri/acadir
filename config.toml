@@ -43,7 +43,7 @@ disableKinds=["RSS"]
   subtitle = "Aikido Tarragona"
   medium = "Album Aikido Tarragona"
   icon = "photo"
-  link = "https://sites.google.com/view/aikidotarragona/"
+  link = "https://fotos.aikidotarragona.org/"
 
 [languages]
 [languages.cat]
