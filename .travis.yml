@@ -12,11 +12,11 @@ env:
 before_install:
 - export GOPATH=$HOME/go
 - export PATH=$PATH:$GOPATH/bin
+- export HUGO_BIN=hugo_extended_0.66.0_Linux-64bit.tar.gz
 install:
-- go get -u github.com/magefile/mage
-- go get -d github.com/gohugoio/hugo
-- cd $HOME/go/src/github.com/gohugoio/hugo
-- mage install
+- wget https://github.com/gohugoio/hugo/releases/download/v0.66.0/$HUGO_BIN
+- tar -xvf $HUGO_BIN
+- sudo mv hugo /usr/bin/
 before_script:
 - mkdir $TRAVIS_BUILD_DIR/themes
 - git clone --depth 1 https://github.com/maguri/acadir-theme.git $TRAVIS_BUILD_DIR/themes/acadir-theme/
