@@ -1,4 +1,4 @@
-baseurl = "http://www.aikidotarragona.org"
+baseurl = "https://www.aikidotarragona.org"
 theme = "acadir-theme"
 languageCode = "en-us"
 defaultContentLanguage = "cat"
@@ -12,7 +12,7 @@ disableKinds=["RSS"]
 [params]
   title = "ACADIR"
   description = "Associació Catalana d'Aikido Dento Iwama Ryu<br />"
-  logoimage = "images/logo.svg"
+  logoimage = "/images/logo.svg"
   baseicon = "https://raw.githubusercontent.com/maguri/acadir/master/static/images/favicon.ico"
   copyright = "ACADIR"
   developer = "maguri"

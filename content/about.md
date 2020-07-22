@@ -14,7 +14,7 @@ draft = false
 
 <p>Com Associació reconeguda a la comarca de Tarragona, hem creat un <a href="#classes">conveni de col·laboració</a> amb la <strong>Universitat Rovira i Virgili</strong> per apropar l'<strong>Aikido</strong> als joves del territori.
   <div style="text-align: center;">
-    <img src="images/urv-logo.png" height="50" alt="URV" style="margin-left: 2%;">
+    <img src="images/urv-logo.jpg" height="50" alt="URV" style="margin-left: 2%;">
   </div>
 </p>
   <div style="text-align:center">
