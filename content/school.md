@@ -43,8 +43,8 @@ Des del punt de vista fisioterapèutic, es busca realitzar exercicis adequats a 
 <hr style="border-bottom: solid 1px #514234;">
 
 <div style="text-align:center">
-  <a href="https://sites.google.com/view/aikidotarragona/" target="_blank">
+  <a href="https://fotos.aikidotarragona.org/" target="_blank">
     <img src="images/circle.jpg" height="150" width="150" alt="Escola Aikido Tarragona">
   </a>
-  <p>Pots veure tot el que fem al nostre <b><a href="https://sites.google.com/view/aikidotarragona/" target="_blank">Àlbum de Fotos</a></b>.</p>
+  <p>Pots veure tot el que fem al nostre <b><a href="https://fotos.aikidotarragona.org/" target="_blank">Àlbum de Fotos</a></b>.</p>
 </div>

@@ -18,8 +18,8 @@ draft = false
   </div>
 </p>
   <div style="text-align:center">
-    <p>Pots veure tot el que fem al nostre <a href="https://sites.google.com/view/aikidotarragona/" target="_blank"><strong>Àlbum de Fotos</strong></a>.</p>
-    <a href="https://sites.google.com/view/aikidotarragona/" target="_blank">
+    <p>Pots veure tot el que fem al nostre <a href="https://fotos.aikidotarragona.org/" target="_blank"><strong>Àlbum de Fotos</strong></a>.</p>
+    <a href="https://fotos.aikidotarragona.org/" target="_blank">
       <img src="images/google-photos.png" height="60" width="60" alt="Photos Aikido">
     </a>
   </div>
