@@ -70,7 +70,7 @@ draft = false
     <strong>Dimarts</strong> i <strong>Dijous</strong>
     <p style="margin-bottom: 1rem">(a partir de 16 anys)</p>
     <ul>
-      <li>De 20:30h a 22:00h</li>
+      <li>De 19:30h a 20:30h</li>
     </ul>
   </div>
   <div class="column-instructor" style="text-align: center;">
