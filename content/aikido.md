@@ -15,23 +15,19 @@ draft = false
 
 ## BENEFICIS EN L'ETAPA DE FORMACIÓ
 
-Sabies que l'<strong>Aikido</strong> és un conjunt de tècniques ideals pel creixement i desenvolupament infantil?
+¿Sabies que l'<strong>Aikido</strong> ens aporta un conjunt de tècniques ideals per creixer a nivell personal?
 
 L'Escola té com a objectiu ajudar a millorar a l’alumnat principalment en les **intel·ligències cinètico-corporal**, tant a nivell **tècnic** i **físic**, com **intrapersonalment** (conèixer-se a un mateix) i **interpersonalment** (saber conviure en el si del grup d’entrenament). Per aconseguir aquesta millora educativa, els entrenaments estan pautats en diferents **nivells** o programes.
 Des del punt de vista del model participatiu, preval l'actuació motriu i no el rendiment. Busca fomentar els **àmbits cognitius**, les relacions interpersonals, l'esperit de **cooperació en grup** i la sociabilitat.
 
-La pràctica continuada de l’**Aikido** permet que el jovent es beneficiï d’un seguit d’habilitats que permetran els infants millorar les seves competències en els àmbits estudiantil, esportiu o d’altres.
-
-<div style="text-align:left;">
-  <img src="images/mobile.jpg" height="200" width="350" alt="Escola Aikido Tarragona">
-</div>
+La pràctica continuada de l’**Aikido** permet que el jovent es beneficiï d’un seguit d’habilitats que permetran  millorar les seves competències en els àmbits estudiantil, esportiu i personals.
 
 - Permet tonificar el **físic** i reforçar la **coordinació** i la **flexibilitat**. S’incrementa també l'**agilitat**, l'**equilibri**, la centralitat i la lateralitat.
 
 - Millora l’**autoconfiança**, l’**autoestima** i l’**autodisciplina** necessàries per assolir els reptes de la vida, com ara els estudis, els esports o les relacions socials. Ajuda a l’alumnat, principalment noies, que per por o vergonya a destacar intenten passar desapercebudes.
 
 <div style="text-align:center;">
-  <img src="images/boy.jpg" height="200" width="350" alt="Escola Aikido Tarragona">
+  <img src="images/aikido-control.JPG" height="350" alt="Aikido Tarragona">
 </div>
 
 - Estimula l'**autosuperació**, ja que les classes estan pensades per anar avançant tant tècnicament com conceptualment al llarg dels cursos.
@@ -41,7 +37,7 @@ La pràctica continuada de l’**Aikido** permet que el jovent es beneficiï d�
 - Promou la **cooperació**, el **treball en equip** i la **no competitivitat**, recomanables tant a l’escola com a fora, afavorint la igualtat de gènere ja que durant la pràctica aprofites l’energia del company fent ús del sentit comú.
 
 <div style="text-align:right;">
-  <img src="images/team.jpg" height="200" width="350" alt="Escola Aikido Tarragona">
+  <img src="images/escola-aikido.jpg" height="350" alt="Aikido Tarragona">
 </div>
 
 - Valoritza el **respecte** al Mestre, als companys i companyes, a un mateix i a la societat. Evita caure en diverses tipologies conductuals, com poden ser:

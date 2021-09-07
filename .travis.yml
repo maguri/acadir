@@ -7,7 +7,7 @@ addons:
     - python-pygments
 env:
   global:
-  - COMMIT_AUTHOR_EMAIL: oriol.mauri@devcows.com
+  - COMMIT_AUTHOR_EMAIL: oriol@bmauri.com
   - ENCRYPTION_LABEL: 7adb43d426f2
 before_install:
 - export GOPATH=$HOME/go

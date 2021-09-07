@@ -3,22 +3,18 @@ title = "Escola"
 weight = 30
 +++
 
-<h2>INFANTIL D’AIKIDO</h2>
+<h2>AIKIDO JUVENIL</h2>
 
-{{< figure class="image main" src="images/school.jpg" >}}
+{{< figure class="image main" src="images/escola.jpg" >}}
 
 ## L’ENSENYAMENT
 ### APRENENTATGE A L’ESCOLA D’AIKIDO
 
 L'**Aikido** és una disciplina d'**origen japonès** enfocada a l'autodefensa que consisteix a controlar o projectar l'adversari redirigint la seva pròpia **força no violentament**. Per aconseguir-ho, el practicant es cohesiona amb el seu oponent, s'uneix als seus **moviments harmoniosament** i aplica les tècniques adequades per neutralitzar-lo.
 
-<div style="text-align:right;">
-  <img src="images/school1.png" height="250" width="350" alt="Escola Aikido Tarragona">
-</div>
-
 <h3>ACTUALITAT I FUTUR</h3>
 
-L'**Escola** s’inclou dins la secció d’Aikido del **Club Natació Tàrraco**. Es va fundar l’any 2017 i compta amb una trentena d'alumnes, **d'entre 6 a 15 anys**, dividits en **tres grups** per edats (6-8, 9-11 i 12-15) malgrat que és flexible.
+L'**Escola** s’inclou dins la secció d’Aikido del **Club Natació Tàrraco**.
 
 La finalitat de l'Escola és arribar a ser una **escola base de referència** i per aconseguir-ho compta amb un equip tècnic qualificat al capdavant, amb el suport de l'**Associació Catalana d'Aikido Dento Iwama Ryu (ACADIR)** i amb la cobertura total del club a nivell legal, de gestió i d'instal·lacions.
 
@@ -30,10 +26,10 @@ Malgrat això i el caràcter marcial de la nostra disciplina, el nostre model **
 Fem prevaldre l'actuació motriu i no el rendiment. Busquem fomentar els **àmbits cognitiu**, cinestèsic, inter- i intrapersonals, l'esperit de cooperació, l'**autoconfiança** i el **treball en equip**.
 
 <div style="text-align:left;">
-  <img src="images/school2.jpg" height="350" width="350" alt="Escola Aikido Tarragona">
+  <img src="images/aikido-team.jpg" height="350" alt="Escola Aikido Tarragona">
 </div>
 
-L’alumnat **practica per plaer** i gaudi, **no** està **limitat per l'edat** (dividits en grups), gènere (grups amb molta paritat) o tecnicitat (nivell tècnic molt parell). Tothom és protagonista, i busquem més la companyonia que la competició o la victòria.
+L’alumnat **practica per plaer** i gaudir, **no** està **limitat per l'edat** (dividits en grups), gènere (grups amb molta paritat) o tecnicitat (nivell tècnic molt parell). Tothom és protagonista, i busquem més la companyonia que la competició o la victòria.
 
 Des del punt de vista fisioterapèutic, es busca realitzar exercicis adequats a les possibilitats motrius del jovent perquè es pugui **formar de manera saludable**, equilibrada, evitant el rendiment motriu prematur.
 

@@ -10,8 +10,6 @@ draft = false
 
   Es reconeix a <strong>Morihiro Saito Sensei</strong> com a fundador de l’escola d’Aikido d’Iwama i a <strong>Hitohiro Saito Sensei</strong> com a fundador de l’escola d’<strong>Aikido Dento Iwama Ryu</strong>.
 
-  Hem exercit la pràctica de l'<strong>Aikido</strong> durant més de 10 anys, i ara estem orgullosos de crear la <a href="#school"><strong>Secció Infantil</strong></a>.
-
 <p>Com Associació reconeguda a la comarca de Tarragona, hem creat un <a href="#classes">conveni de col·laboració</a> amb la <strong>Universitat Rovira i Virgili</strong> per apropar l'<strong>Aikido</strong> als joves del territori.
   <div style="text-align: center;">
     <img src="images/urv-logo.png" height="50" alt="URV" style="margin-left: 2%;">
