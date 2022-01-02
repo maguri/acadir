@@ -16,10 +16,10 @@ hidden = true
 
   <p>Ha impartit classes d'Aikido a diferents centres de la província de Tarragona.
   És el responsable i director tècnic a Catalunya de l'<strong>Associació Catalana d'Aikido Dento Iwama Ryu</strong> (ACADIR).
-  És Mestre i 3r Dan d'Aikido, per l'escola <strong>Shinshin Aikiahurenkai</strong> del Japó.</p>
+  És Mestre i 4t Dan d'Aikido, per l'escola <strong>Shinshin Aikiahurenkai</strong> del Japó.</p>
 
   <ul>
-    <li>Mestre Nacional i 3r Dan d'Aikido per la Federació Espanyola (FEAMCDA).</li>
+    <li>Mestre Nacional i 4t Dan d'Aikido per la Federació Espanyola (FEAMCDA).</li>
     <li>Ostenta el 3r Dan de Karate-do per les Federacions Espanyola i Catalana, (FEK-FCK).</li>
     <li>Especialista en defensa personal.</li>
     <li>Massatgista titulat.</li>

@@ -26,7 +26,7 @@ draft = false
       <img src="images/inst-1.png" height="60" width="60" alt="Aikido - Entrenador - Artista Marcial">
       <p>Mestre:<br>
       <strong>Josep Roldán</strong><br/>
-      3r Dan<br></p>
+      4t Dan<br></p>
     </a>
   </div>
   <div class="column-timetable">
