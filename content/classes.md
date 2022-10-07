@@ -10,21 +10,22 @@ draft = false
 
 <div class="row">
   <div class="column-timetable">
-    <h3 id="classes-adults">Classes Juvenils i Adults</h3>
-    <strong>Dilluns</strong>, <strong>Dimecres</strong> i <strong>Divendres</strong>
-    <p style="margin-bottom: 1rem">(a partir de 16 anys)</p>
-    <ul style="margin-bottom: 1rem">
-      <li>De 20:00h a 21:30h</li>
-    </ul>
+    <h3 id="classes-adults">Classes d'Iniciació</h3>
     <strong>Dilluns</strong> i <strong>Dimecres</strong>
-    <ul>
+    <p style="margin-bottom: 1rem">(a partir de 1r ESO)</p>
+    <ul style="margin-bottom: 1rem">
       <li>De 18:30h a 20:00h</li>
+    </ul>
+    <h3 id="classes-adults">Classes de Perfeccionament</h3>
+    <strong>Dilluns</strong>, <strong>Dimecres</strong> i <strong>Divendres</strong>
+    <ul>
+      <li>De 20:00h a 21:30h</li>
     </ul>
   </div>
   <div class="column-instructor" style="text-align:center;">
     <a href="#teacher">
       <img src="images/inst-1.png" height="60" width="60" alt="Aikido - Entrenador - Artista Marcial">
-      <p>Mestre:<br>
+      <p>Professor i Responsable Tècnic<br>
       <strong>Josep Roldán</strong><br/>
       4t Dan<br></p>
     </a>
