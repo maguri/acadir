@@ -43,7 +43,7 @@ draft = false
 <br>
 
 <div style="text-align: center; display: block;">
-  <p><i>Ofertes per als vinculats d'<strong>EsportsURV</strong>.
+  <p><i>Avantatges pels <strong>estudiants </strong>de la.
     <a href="http://www.urv.cat/ca/vida-campus/extensio-universitaria/activitat-fisica/esport/avantatges/escola-aikido-acadir/" target="_blank">Saber-ne més</a>.
   </i></p>
   <p><img src="images/urv-logo.png" height="50" alt="URV" style="margin-top: -10%;"></p>
