@@ -13,3 +13,6 @@ You can visit what we do here: www.aikidotarragona.org
 
 # Licence
 This is a website created altruistically to my Dojo Association from my truly love for the Aikido and the partners with who I share this feeling.
+
+# CI
+Check if github workflow works.
