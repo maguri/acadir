@@ -33,11 +33,6 @@ disableKinds=["RSS"]
   icon = "youtube"
   link = "https://www.youtube.com/channel/UCSAchRaks4wRy8VRAV4jnSg/"
 
-[[params.social]]
-  medium = "Twitter Aikido Tarragona"
-  icon = "folder"
-  link = "https://www.aikidotarragona.org/#documents"
-
 [[params.media]]
   title = "Àlbum"
   subtitle = "Aikido Tarragona"

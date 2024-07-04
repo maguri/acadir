@@ -12,7 +12,7 @@ draft = false
   <div class="column-timetable">
     <h3 id="classes-adults">Classes d'Iniciació</h3>
     <strong>Dilluns</strong> i <strong>Dimecres</strong>
-    <p style="margin-bottom: 1rem">(a partir de 1r ESO)</p>
+    <p style="margin-bottom: 1rem">(a partir de 14 anys)</p>
     <ul style="margin-bottom: 1rem">
       <li>De 18:30h a 20:00h</li>
     </ul>
