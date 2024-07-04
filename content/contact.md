@@ -18,6 +18,7 @@ draft = false
 <hr>
 <form id='contactform' method='post' action=''>
   Si tens cap dubte o pregunta no dubtis en posar-te en contacte amb nosaltres:
+  Truca al <a href="tel:+34977232084" target="_blank">977 232 084</a> o envieu un correu a <a href="mailto:info@cntarraco.cat" name="email" title="email">info@cntarraco.cat</a>.
 	<input type="hidden" name="_cc" id="_cc" />
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Nom"/>
