@@ -10,13 +10,13 @@ draft = false
 
 <div class="row">
   <div class="column-timetable">
-    <h3 id="classes-adults">Classes d'Iniciació</h3>
-    <strong>Dilluns</strong> i <strong>Dimecres</strong>
+    <!-- <h3 id="classes-adults">Horari</h3> -->
+    <!-- <strong>Dilluns</strong> i <strong>Dimecres</strong>
     <p style="margin-bottom: 1rem">(a partir de 14 anys)</p>
     <ul style="margin-bottom: 1rem">
       <li>De 18:30h a 20:00h</li>
-    </ul>
-    <h3 id="classes-adults">Classes de Perfeccionament</h3>
+    </ul> -->
+    <h3 id="classes-adults">Horari de Classes</h3>
     <strong>Dilluns</strong>, <strong>Dimecres</strong> i <strong>Divendres</strong>
     <ul>
       <li>De 20:00h a 21:30h</li>
@@ -30,13 +30,13 @@ draft = false
       4t Dan<br></p>
     </a>
   </div>
-  <div class="column-timetable">
-  <h3 id="classes-adults">CLASSES DEFENSA PERSONAL FEMENINA</h3>
+  <!-- <div class="column-timetable">
+    <h3 id="classes-adults">CLASSES DEFENSA PERSONAL FEMENINA</h3>
     <strong>Divendres</strong>
     <ul>
       <li>De 18:30h a 20:00h</li>
     </ul>
-    </div>
+  </div> -->
 </div>
 <div style="text-align: center; display: block">
   <strong>Vine a probar unes classes sense compromís</strong>
